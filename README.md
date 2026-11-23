@@ -2,7 +2,9 @@
 
 A simple front-end app that shows the median annual salary for a trade in any U.S. state. Built for the Simple API 1 challenge.
 
-- HTML<img width="714" height="373" alt="Screenshot 2026-10-26 at 2 54 18 AM" src="https://github.com/user-attachments/assets/ae4d9832-06b4-41ee-86bf-b441ac6b4156" />
+**Live Site**: 
+
+<img width="714" height="373" alt="Screenshot 2026-10-26 at 2 54 18 AM" src="https://github.com/user-attachments/assets/ae4d9832-06b4-41ee-86bf-b441ac6b4156" />
 
 ## What it does
 
